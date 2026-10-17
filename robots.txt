@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haymint.github.io/sitemap.xml

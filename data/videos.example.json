@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reel-vi-du-1",
+    "title": "Sắp xếp góc phòng nhỏ",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "category": "living",
+    "subcategory": "phong-nho",
+    "tags": [],
+    "status": "draft",
+    "publishedAt": "2026-10-17"
+  },
+  {
+    "id": "reel-vi-du-2",
+    "title": "Gọn dây cáp trên bàn",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "category": "desk",
+    "subcategory": "quan-ly-day-cap",
+    "tags": [],
+    "status": "draft",
+    "publishedAt": "2026-10-17"
+  },
+  {
+    "id": "reel-vi-du-3",
+    "title": "Đồ nhỏ khi đi du lịch",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "category": "finds",
+    "subcategory": "du-lich",
+    "tags": [],
+    "status": "draft",
+    "publishedAt": "2026-10-17"
+  }
+]

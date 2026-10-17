@@ -1,0 +1,47 @@
+[
+  {
+    "id": "vi-du-1",
+    "name": "Hộp lưu trữ gấp gọn",
+    "category": "living",
+    "subcategory": "luu-tru",
+    "tags": [
+      "phòng nhỏ"
+    ],
+    "image": "",
+    "description": "Bản nháp: thay bằng mô tả gốc trước khi đăng.",
+    "shopeeUrl": "",
+    "videoUrl": "",
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "id": "vi-du-2",
+    "name": "Hub USB-C",
+    "category": "desk",
+    "subcategory": "hub-cong-ket-noi",
+    "tags": [
+      "phòng nhỏ"
+    ],
+    "image": "",
+    "description": "Bản nháp: thay bằng mô tả gốc trước khi đăng.",
+    "shopeeUrl": "",
+    "videoUrl": "",
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "id": "vi-du-3",
+    "name": "Túi phụ kiện du lịch",
+    "category": "finds",
+    "subcategory": "du-lich",
+    "tags": [
+      "phòng nhỏ"
+    ],
+    "image": "",
+    "description": "Bản nháp: thay bằng mô tả gốc trước khi đăng.",
+    "shopeeUrl": "",
+    "videoUrl": "",
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  }
+]

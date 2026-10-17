@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "huong-dan-vi-du-1",
+    "title": "Sắp xếp phòng nhỏ",
+    "intro": "Bản nháp: thay bằng nội dung gốc.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "category": "living",
+    "subcategory": "phong-nho",
+    "tags": [],
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "slug": "huong-dan-vi-du-2",
+    "title": "Góc bàn gọn gàng",
+    "intro": "Bản nháp: thay bằng nội dung gốc.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "category": "desk",
+    "subcategory": "phu-kien-ban",
+    "tags": [],
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "slug": "huong-dan-vi-du-3",
+    "title": "Chuẩn bị đồ du lịch",
+    "intro": "Bản nháp: thay bằng nội dung gốc.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "category": "finds",
+    "subcategory": "du-lich",
+    "tags": [],
+    "status": "draft",
+    "updatedAt": "2026-10-17"
+  }
+]
