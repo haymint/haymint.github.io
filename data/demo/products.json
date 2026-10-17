@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ban-gap-gon-mini",
+    "name": "Bàn gấp gọn mini",
+    "category": "living",
+    "subcategory": "noi-that-gap-gon",
+    "tags": [],
+    "image": "assets/img/demo/p1.jpg",
+    "description": "Gấp gọn, hợp phòng nhỏ. Nhẹ, dễ cất khi không dùng.",
+    "shopeeUrl": "",
+    "videoUrl": "https://www.facebook.com/",
+    "duration": "00:48",
+    "status": "published",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "id": "hub-usb-c-6-trong-1",
+    "name": "Hub USB-C 6 trong 1",
+    "category": "desk",
+    "subcategory": "hub-cong-ket-noi",
+    "tags": [],
+    "image": "assets/img/demo/p2.jpg",
+    "description": "Thêm cổng kết nối cho laptop, gọn trên bàn làm việc.",
+    "shopeeUrl": "",
+    "videoUrl": "https://www.facebook.com/",
+    "duration": "00:32",
+    "status": "published",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "id": "hop-dung-day-cap",
+    "name": "Hộp đựng dây cáp",
+    "category": "desk",
+    "subcategory": "quan-ly-day-cap",
+    "tags": [],
+    "image": "assets/img/demo/p3.jpg",
+    "description": "Giấu ổ cắm và dây cáp, giúp mặt bàn gọn gàng hơn.",
+    "shopeeUrl": "",
+    "videoUrl": "https://www.facebook.com/",
+    "duration": "00:45",
+    "status": "published",
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "id": "thung-luu-tru-gap-gon",
+    "name": "Thùng lưu trữ gấp gọn",
+    "category": "living",
+    "subcategory": "luu-tru",
+    "tags": [],
+    "image": "assets/img/demo/p4.jpg",
+    "description": "Xếp chồng được, gấp phẳng khi không sử dụng.",
+    "shopeeUrl": "",
+    "videoUrl": "https://www.facebook.com/",
+    "duration": "00:50",
+    "status": "published",
+    "updatedAt": "2026-10-17"
+  }
+]
